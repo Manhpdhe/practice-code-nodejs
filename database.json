@@ -1,0 +1,49 @@
+{
+  "account": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": 123,
+      "isAdmin": true
+    },
+    {
+      "id": 2,
+      "username": "user",
+      "password": 123,
+      "isAdmin": false
+    },
+    {
+      "id": 3,
+      "username": "manh1",
+      "password": "$2a$10$CnHG9h8kOhc5RvxtpPOlAOhmTUQ41LGhIfW5/OPGgQ7J8dCIycquy",
+      "isAdmin": false,
+      "isActive": true
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "name": "Nguyen Van A",
+      "dob": "21/06/2002",
+      "gender": "false",
+      "city": "Viet Nam",
+      "email": "nguyenvana@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Nguyen Van B",
+      "dob": "21/06/2002",
+      "gender": "false",
+      "city": "Viet Nam",
+      "email": "nguyenvanb@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "",
+      "dob": "",
+      "gender": true,
+      "city": "",
+      "email": ""
+    }
+  ]
+}
