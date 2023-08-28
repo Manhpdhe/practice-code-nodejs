@@ -123,12 +123,11 @@ const Home = () => {
                             <Col xs={12} sm={4}>
                                 <Card style={{ height: "100%" }}>
                                     <Card.Header>
-                                        <h3>Mạnh</h3>
+
                                     </Card.Header>
                                     <Card.Body>
                                         <Card.Text>
-                                            "Từ sau khi sử dụng My List, cuộc sống của tôi đã trở nên
-                                            tươi đẹp. Hãy sử dụng My List để trở nên thành công"
+
                                         </Card.Text>
                                     </Card.Body>
                                 </Card>
@@ -136,12 +135,10 @@ const Home = () => {
                             <Col xs={12} sm={4}>
                                 <Card style={{ height: "100%" }}>
                                     <Card.Header>
-                                        <h3>An Le</h3>
                                     </Card.Header>
                                     <Card.Body>
                                         <Card.Text>
-                                            "Nhờ lên kế hoạch, những nốt nhạc của tôi trở nên có quy
-                                            luật và hấp dẫn lạ thường."
+
                                         </Card.Text>
                                     </Card.Body>
                                 </Card>
@@ -149,12 +146,11 @@ const Home = () => {
                             <Col xs={12} sm={4}>
                                 <Card style={{ height: "100%" }}>
                                     <Card.Header>
-                                        <h3>Kiên</h3>
+
                                     </Card.Header>
                                     <Card.Body>
                                         <Card.Text>
-                                            "Nhờ có My List, tôi đã thực hiện hóa ước mơ trở thành
-                                            Hokage của mình"
+
                                         </Card.Text>
                                     </Card.Body>
                                 </Card>
